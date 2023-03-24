@@ -12,7 +12,7 @@ The goal of this project is to gather insights from the bike share data from NY 
 6. Maintenance schedule
 
 
-## **Most rides are shore rides:**
+## **Most rides are short rides:**
 
 Majority of the rides seem to be of shorter duration that last anywhere from 5-20 minutes. Though there are people who prefer to rent the bikes as long as 24 hours, there is a sharp decline in the number of rides after an hour.
 
