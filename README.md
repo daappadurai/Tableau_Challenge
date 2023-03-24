@@ -30,25 +30,25 @@ Majority of the bike-riders prefer 7-9AM in the morning and 5-7PM in the evening
 
 ![Peak Biking Hours](images/gradient_plot_total.png)
 
-##**Further evidence that men prefer biking more than women:**
+## **Further evidence that men prefer biking more than women:**
 
 This ascertains the previous conclusion that men prefer bike riding more than women. However, there could be instances where a family member may be driving with money paid by another family member. Further analysis should be to determine the reasons why men prefer biking more than women and find ways to promote biking among women.
 
 ![Peak Biking Hours Men vs Women](images/gradient plot by gener.png)
 
-##**Subscribers vs non-subscribers:**
+## **Subscribers vs non-subscribers:**
 
 This graph shows that subscribers use the bike more often than non-subscribers. Subscribers usually pay lower than non-subscribers. This data also points out that most people using the bikes are most probably locals. Therefore, this also points out that non-subscribers who are possibly tourists do not use as much. Promoting bikes through advertisements and signposts may be a good way to get this across to non-subscribers. Monday, Tuesday, Thursday, and Friday are preferred days. It will be interesting to further investigate as to why there is a sharp fall in biking on Wednesday.
 
 ![Subscribers vs Non-subscribers](images/subcribers_non.png)
 
-##**Preferred bike parking spots:**
+## **Preferred bike parking spots:**
 
 Based on the number of bikes parked in certain areas it becomes clear some areas are more preferred than others. The reason for this discrepancy is worth investigating and will be beneficial to plan future locations for parking bikes.
 
 ![Bike Parking Areas](images/bike_parking.png)
 
-##**Bike maintenance scheduling:**
+## **Bike maintenance scheduling:**
 
 This graph determines the number of bikes in use on a particular time of the day. Between 1 AM and 4 AM the number bikes in use are very minimal and is the ideal time to perform maintenance operation on bikes without affecting operational efficiency.
 
